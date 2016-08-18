@@ -1,5 +1,7 @@
-# Anti-Anti-Adblocker
+# Anti-Adblocker
 
-Anti-Anti-Adblocker is a anti-anti-adblocker blocker. I will add defaults for Crunchyroll and more. Add your own to the script if you want.
+Anti-Adblocker is a anti-anti-adblocker blocker. Post in the issues under enhancments to help add more sites.
+
+Currently it prohibits any site that uses AntiBlock (http://antiblock.org)
 
 DO NOT USE COMMERICALLY! COPYRIGHTED BY jHeight --- MUST ATRRIBUTE IF USING ALONE
