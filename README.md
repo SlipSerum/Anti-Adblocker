@@ -4,7 +4,7 @@ Anti-Adblocker is a anti-anti-adblocker blocker. Post in the issues under enhanc
 
 Currently it prohibits any site that uses AntiBlock (http://antiblock.org)
 
-Installation Guide : http://www.partners.wubhax.x10.mx/gp/webscripttutorial.htm
+Installation Guide : http://www.partners.wubhax.x10.mx/gp/index.html
 
 Donate to Me : https://www.paypal.me/darealgamerplays
 
